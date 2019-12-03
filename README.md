@@ -1,19 +1,19 @@
 # TowerRise
 A game I developed starting in an Intro to Game Development course offered at my [university](https://behrend.psu.edu/). 
-I continued to refine the game experience after the class ended. The project is still in the works, as i am experimenting with my capabilites within [Unreal Engine 4.](https://www.unrealengine.com/en-US/)
+I continued to refine the game experience after the class ended. The project is still in the works, as I am experimenting with my capabilites within [Unreal Engine 4.](https://www.unrealengine.com/en-US/)
 
 ## Getting Started:
-These instructions will get you a cop of the project up and runing on your local machine for development and testing purposes.
+These instructions will get you a cop of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
 #### For Development:
 * First, install the [Epic Games Launcher](https://www.epicgames.com/unrealtournament/download)
 * Next, Create an Epic Games account and login
-* Finally, in the Epic Games Launcher, go to the 'Unreal Engine' tab on the left-hand side of the screen. Click the library tab near the top center, and install Unreal Engine 4.22.3.
+* Finally, in the Epic Games Launcher, go to the 'Unreal Engine' tab on the left-hand side of the screen. Click the 'library' tab near the top center, and install Unreal Engine 4.22.3.
 
 #### For Testing:
-The executable is only testable on computers running Windows as an operating system. To test on other Operating Systems, download the [project files](https://github.com/SidneyHopson/towerRise/Project-Files) and package the project for MAC OS or Linux
+The executable is only testable on computers running Windows as their operating system. To test on other Operating Systems, download the [project files](https://github.com/SidneyHopson/towerRise/Project-Files) and package the project for MAC OS or Linux
 
 ### Installing
 
